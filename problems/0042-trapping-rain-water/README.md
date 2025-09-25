@@ -1,4 +1,4 @@
-# Trapping Rain Water – Key Points
+# Trapping Rain Water
 
 **Goal:**  
 Given an array of bar heights, find how many units of water are trapped after rain.
