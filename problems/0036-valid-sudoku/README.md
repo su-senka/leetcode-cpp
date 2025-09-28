@@ -1,4 +1,4 @@
-# Validate a 9×9 Sudoku Board – C++ Solution
+# Validate a 9×9 Sudoku Board
 
 Given a 9×9 grid:
 
