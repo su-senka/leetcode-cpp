@@ -1,4 +1,4 @@
-# LC-643: Maximum Average Subarray I (C++)
+# LC-643: Maximum Average Subarray I
 
 **Difficulty:** Easy
 
